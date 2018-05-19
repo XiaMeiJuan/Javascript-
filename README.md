@@ -1,2 +1,1 @@
-# Javascript-
-记录javascript中的一些知识
+记录学习的的的的JavaScript中的一些知识
